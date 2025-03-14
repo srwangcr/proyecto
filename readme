@@ -1,0 +1,6 @@
+bugs conocdios en codigo:
+    1. Falta agregar una verificación de longitud (8 a 16 caracteres) de número de celular y de cedula
+    2. Falta agregar una verificacion de uso de "@" en el correo electronico.
+Cosas faltantes:
+    1. Terminar los 3 modulos faltantes, historial, facturacion y servicios
+see you later Xd
